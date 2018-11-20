@@ -2,8 +2,8 @@ import React from 'react';
 
 const Gist = (props) => {
 	return (
-		<article class="card">
-      <div class="card__body">
+		<article className="card">
+      <div className="card__body">
         <p>Username <code>alrazi</code> not found.</p>
         <a
           className="link"

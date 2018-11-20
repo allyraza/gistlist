@@ -10,7 +10,7 @@ const Header = (props) => {
           </div>
 
           <div className="header__search">
-  					<form className="search">
+  					<form className="search" onSubmit={props.handleSubmit}>
   						<label className="search__label">http://gist.github.com/</label>
   		      	<input className="search__input" type="text"/>
   		      	<button className="search__button button">Search</button>

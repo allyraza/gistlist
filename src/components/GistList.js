@@ -21,7 +21,7 @@ const GistList = ({ items }) => {
 }
 
 GistList.propTypes = {
-  items: PropTypes.object
+  items: PropTypes.array
 };
 
 export default GistList;
