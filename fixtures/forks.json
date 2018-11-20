@@ -1,0 +1,42 @@
+[
+  {
+    "url": "https://api.github.com/gists/7546875bc6e8b2d79704c79c62919e67",
+    "forks_url": "https://api.github.com/gists/7546875bc6e8b2d79704c79c62919e67/forks",
+    "commits_url": "https://api.github.com/gists/7546875bc6e8b2d79704c79c62919e67/commits",
+    "id": "7546875bc6e8b2d79704c79c62919e67",
+    "node_id": "MDQ6R2lzdDc1NDY4NzViYzZlOGIyZDc5NzA0Yzc5YzYyOTE5ZTY3",
+    "git_pull_url": "https://gist.github.com/7546875bc6e8b2d79704c79c62919e67.git",
+    "git_push_url": "https://gist.github.com/7546875bc6e8b2d79704c79c62919e67.git",
+    "html_url": "https://gist.github.com/7546875bc6e8b2d79704c79c62919e67",
+    "files": {
+
+    },
+    "public": true,
+    "created_at": "2018-07-24T13:53:49Z",
+    "updated_at": "2018-07-24T13:53:49Z",
+    "description": "Using a ReportingObserver to watch for deprecation warnings on page.",
+    "comments": 0,
+    "user": null,
+    "comments_url": "https://api.github.com/gists/7546875bc6e8b2d79704c79c62919e67/comments",
+    "owner": {
+      "login": "jpmedley",
+      "id": 8204171,
+      "node_id": "MDQ6VXNlcjgyMDQxNzE=",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/8204171?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/jpmedley",
+      "html_url": "https://github.com/jpmedley",
+      "followers_url": "https://api.github.com/users/jpmedley/followers",
+      "following_url": "https://api.github.com/users/jpmedley/following{/other_user}",
+      "gists_url": "https://api.github.com/users/jpmedley/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/jpmedley/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/jpmedley/subscriptions",
+      "organizations_url": "https://api.github.com/users/jpmedley/orgs",
+      "repos_url": "https://api.github.com/users/jpmedley/repos",
+      "events_url": "https://api.github.com/users/jpmedley/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/jpmedley/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
+]
