@@ -1,0 +1,8 @@
+.app {}
+
+.app__header {
+  margin-bottom: calc(var(--margin) * 3);
+}
+
+.app__main {}
+.app__footer {}

@@ -1,0 +1,17 @@
+/**
+ * Gist list
+ */
+
+.gistlist {}
+
+.gistlist__header {}
+
+.gistlist__title {
+  color: var(--color-secondary);
+  margin-bottom: var(--margin);
+  font-weight: normal;
+}
+
+.gistlist__card {
+  margin-bottom: var(--margin);
+} 
