@@ -5,7 +5,7 @@ import Gist from '../Gist';
 import GistEmpty from '../GistEmpty';
 
 
-const GistList = ({ gists, forks, isLoading }) => {
+const GistList = ({gists, forks, isLoading}) => {
   return (
     <div className="container">
       <section className="gistlist">
