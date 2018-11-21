@@ -64,8 +64,15 @@ html, body {
  * Layout
  *====================================================*/
  .container {
-  width: 50vw;
+  padding: 0 calc(var(--margin) * 2);
+  width: 100%;
   margin: 0 auto;
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 1200px;
+  }
 }
 
 /**

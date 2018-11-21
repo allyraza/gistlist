@@ -35,3 +35,7 @@
 .gist__avatar + .gist__avatar {
   margin-left: calc(var(--margin) / 2);
 }
+
+.gist--empty .gist__body {
+  display: block;
+}
