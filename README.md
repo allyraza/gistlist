@@ -65,6 +65,8 @@ Your app is ready to be deployed!
 
 ## Future work
 
+Because of the given time constraints I could not follow practices which I normally do for a project before it goes to production like unit tests, cross browser testing and certain other optimizations, I compiled a list of improvements which can be made
+
 1. Optimize for mobile and tablet devices and browsers.
 2. Write unit test for components and e2e tests.
 3. Integrate a state management library. (e.g. Redux, Mobx)
